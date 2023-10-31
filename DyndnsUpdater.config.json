@@ -1,0 +1,12 @@
+{
+    "ipFile": "ip.txt",
+    "dnsZoneName": "domain.pro",
+    "dnsRecordId": "12345678",
+    "dnsRecordSubdomain": "subdomain",
+    "ovhEndpoint": "ovh-net",
+    "ovhEndpointUrl": "https://eu.api.ovh.com/1.0",
+    "ovhApplicationKey": "123",
+    "ovhApplicationSecret": "456",
+    "ovhConsumerKey": "456",
+    "refreshMinutes": "5"
+}
