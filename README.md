@@ -8,3 +8,5 @@ ovh api info: https://api.ovh.com/console/#/domain
 the ip.txt file will be updated automatically(You can delete it before running the script to force a domain update)
 
 to get the record id go to https://api.ovh.com/console/#/domain and use the GET /domain/zone/{zoneName}/dynHost/record
+
+<img src="/demo.png">
